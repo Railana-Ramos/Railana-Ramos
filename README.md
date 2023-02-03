@@ -5,11 +5,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Hello!"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Meu+nome+%C3%A9+Railana!)
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Meu+nome+%C3%A9+Railana!"/>
 
 <img width ="60" src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/><img width ="75" src = "https://media3.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=790b76115exzr9dzmjptpb2wigpw2xlo66rzi7s4aanqnrpl&rid=giphy.gif&ct=g"/>
 
 #
+<br>
 
 </div>
 
@@ -35,7 +36,8 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=2000&color=82C2FA&center=true&vCenter=true&width=435&lines=Voc%C3%AA+n%C3%A3o+pode+fugir+do+mundo;Voc%C3%AA+n%C3%A3o+pode+se+esconder+disso;Mas+voc%C3%AA+pode+encontrar+poder+e+prop%C3%B3sito;Uma+chance+de+sobreviver+ao+horror+-+Gerald)
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=2000&color=82C2FA&center=true&vCenter=true&width=435&lines=Voc%C3%AA+n%C3%A3o+pode+fugir+do+mundo;Voc%C3%AA+n%C3%A3o+pode+se+esconder+disso;Mas+voc%C3%AA+pode+encontrar+poder+e+prop%C3%B3sito;Uma+chance+de+sobreviver+ao+horror+-+Gerald"/>
+
 
 <img width="100px" src="https://cdn-icons-png.flaticon.com/512/185/185801.png"/>
 
@@ -47,7 +49,7 @@
 
 <div style="display:inline_block">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Tecnologias+que+possuo+conhecimento%3A)
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Tecnologias+que+possuo+conhecimento%3A"/>
 
 
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -67,7 +69,7 @@
 
 <div style="display:inline_block">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Tecnologias+em+desenvolvimento%3A)
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Tecnologias+em+desenvolvimento%3A"/>
 
 
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -87,8 +89,8 @@
 #
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Railana-Ramos&theme=swift&border_radius=45px&show_icons=true&count_private=true&title_color=82c2fa4&icon_color=82c2fa"/>
-<img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Railana-Ramos&layout=compact&border_radius=45px&title_color=82c2fa4&icon_color=82c2fa"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Railana-Ramos&theme=swift&border_radius=45px&show_icons=true&count_private=true&title_color=82c2fa4&icon_color=82c2fa&"/>
+<img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Railana-Ramos&layout=compact&border_radius=45px&title_color=82c2fa4&icon_color=82c2fa&"/>
 
 </div>
 </img>
