@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhooyzita/)
 
-[![Railana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Railana-Ramos&theme=dracula&show_icons=true&count_private=true)]
+[![Railana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Railana-Ramos&theme=panda&show_icons=true&count_private=true)]
 
 ### Linguagens mais utilizadas no momento:
 
