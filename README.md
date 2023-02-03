@@ -25,7 +25,7 @@
 
 </div>
 
-#
+<br>
 
 <!-- Frase  -->
 <!-- Align center -->
@@ -33,7 +33,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=2000&color=82C2FA&center=true&vCenter=true&width=435&lines=Voc%C3%AA+n%C3%A3o+pode+fugir+do+mundo;Voc%C3%AA+n%C3%A3o+pode+se+esconder+disso;Mas+voc%C3%AA+pode+encontrar+poder+e+prop%C3%B3sito;Uma+chance+de+sobreviver+ao+horror+-+Gerald)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=2000&color=82C2FA&center=true&vCenter=true&width=435&lines=Voc%C3%AA+n%C3%A3o+pode+fugir+do+mundo;Voc%C3%AA+n%C3%A3o+pode+se+esconder+disso;Mas+voc%C3%AA+pode+encontrar+poder+e+prop%C3%B3sito;Uma+chance+de+sobreviver+ao+horror+-+Gerald)
 
 <img width="100px" src="https://cdn-icons-png.flaticon.com/512/185/185801.png"/>
 
@@ -44,8 +44,8 @@
 #
 
 <div style="display:inline_block">
-<h2> Tecnologias que possuo conhecimento:</h2>
-<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Tecnologias+que+possuo+conhecimento%3A)
 
 
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -64,8 +64,9 @@
 #
 
 <div style="display:inline_block">
-<h2> Tecnologias em desenvolvimento:</h2>
-<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Tecnologias+em+desenvolvimento%3A)
+
 
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=whit" />
