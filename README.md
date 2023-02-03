@@ -1,25 +1,18 @@
 #
 <!-- Breve apresentaçãp -->
-<div style="display:flex; justify-content: space-between;">
-
-<div>
-
-<img width = "100px" src = "https://media.tenor.com/BqoEMtTT83IAAAAi/spring-flower.gif"/>
-
-</div>
 
 <div align = "center">
-<h1 style="color:lightblue; font-size:50px">Hello!<br>
-Me chamo Railana!
-</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Hello!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=1&pause=100000000&color=82C2FA&center=true&vCenter=true&width=435&lines=Meu+nome+%C3%A9+Railana!)
+
+#
+
 </div>
 
 <div>
 
-<img width = "100px" src = "https://media.tenor.com/qA_CthVTqL8AAAAi/daisy-flowers.gif"/>
-</div>
-
-</div>
 
 <!-- Redes sociais -->
 
@@ -39,29 +32,8 @@ Me chamo Railana!
 <div align="center">
 
 <br>
-<div style="display:flex; flex-direction:column; width:500px">
-<div style="margin-bottom:-40px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=15&pause=5000&color=82C2FA&center=true&vCenter=true&width=435&lines=Voc%C3%AA+n%C3%A3o+pode+se+esconder+disso) 
-
-</div>
-<div style="margin-bottom:-40px">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=15&pause=5000&color=82C2FA&center=true&vCenter=true&width=435&lines=Voc%C3%AA+n%C3%A3o+pode+fugir+do+mundo)
-
-</div>
-
-<div style="margin-bottom:-40px">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=15&pause=5000&color=82C2FA&center=true&vCenter=true&width=435&lines=Mas+voc%C3%AA+pode+encontrar+poder+e+prop%C3%B3sito)
-</div>
-
-<div >
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=15&pause=5000&color=82C2FA&center=true&vCenter=true&width=435&lines=Uma+chance+de+sobreviver+ao+horror+-+Geralt)
-</div>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=2000&color=82C2FA&center=true&vCenter=true&width=435&lines=Voc%C3%AA+n%C3%A3o+pode+fugir+do+mundo;Voc%C3%AA+n%C3%A3o+pode+se+esconder+disso;Mas+voc%C3%AA+pode+encontrar+poder+e+prop%C3%B3sito;Uma+chance+de+sobreviver+ao+horror+-+Gerald)](https://git.io/typing-svg)
 
 <img width="100px" src="https://cdn-icons-png.flaticon.com/512/185/185801.png"/>
 
@@ -72,7 +44,7 @@ Me chamo Railana!
 #
 
 <div style="display:inline_block">
-<h2 style="color:lightblue"> Tecnologias que possuo conhecimento:</h2>
+<h2> Tecnologias que possuo conhecimento:</h2>
 <br>
 
 
@@ -92,7 +64,7 @@ Me chamo Railana!
 #
 
 <div style="display:inline_block">
-<h2 style="color:lightblue"> Tecnologias em desenvolvimento:</h2>
+<h2> Tecnologias em desenvolvimento:</h2>
 <br>
 
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -121,9 +93,11 @@ Me chamo Railana!
 #
 <br>
 
-<div style="display:flex; align-items:center; justify-content:center">
+<div align = "center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=82C2FA&center=true&vCenter=true&width=435&lines=Nenhum+esfor%C3%A7o+%C3%A9+em+v%C3%A3o%2C+continue!"/>
 <img width="100px" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"/>
 </div>
+<br>
+<br>
 
 
