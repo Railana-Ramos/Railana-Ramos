@@ -6,7 +6,7 @@
 
 ![Railana Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Railana-Ramos&theme=dracula&show_icons=true)
 
-### Linguagens mais utilizadas no momento :
+### Linguagens mais utilizadas no momento:
 
 <div style="display:inline_block">
 
