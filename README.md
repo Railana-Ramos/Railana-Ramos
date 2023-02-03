@@ -10,7 +10,8 @@
 <img width ="60" src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/><img width ="75" src = "https://media3.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=790b76115exzr9dzmjptpb2wigpw2xlo66rzi7s4aanqnrpl&rid=giphy.gif&ct=g"/>
 
 #
-
+<br>
+  
 </div>
 
 <div>
