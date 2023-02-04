@@ -86,7 +86,7 @@
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Railana-Ramos&theme=swift&border_radius=45px&show_icons=true&count_private=true&title_color=82c2fa4&icon_color=82c2fa"/>
-<img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Railana-Ramos&layout=compact&border_radius=45px&title_color=82c2fa4&icon_color=82c2fa"/>
+<img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Railana-Ramos&layout=compact&border_radius=45px&title_color=82c2fa4&icon_color=82c2fa&count_private=true"/>
 
 </div>
 </img>
